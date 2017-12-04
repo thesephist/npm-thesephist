@@ -1,6 +1,6 @@
 # npm-thesephist
 
-This is a nice and memorable way to get my contact info (and other bits of data) from the command line with NPM. Idea shamelessly stolen from the legend [Jordan Scales](https://twitter.com/jdan), who in turn stoke the idea from [Justin Searls](https://github.com/searls).
+This is a nice and memorable way to get my contact info (and other bits of data) from the command line with NPM. Idea shamelessly stolen from the legend [Jordan Scales](https://twitter.com/jdan), who in turn stole the idea from [Justin Searls](https://github.com/searls).
 
 ## Use
 
