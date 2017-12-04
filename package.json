@@ -1,0 +1,25 @@
+{
+  "name": "thesephist",
+  "version": "1.0.0",
+  "description": "Linus Lee's contact info",
+  "main": "index.js",
+  "scripts": {
+      "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesephist/npm-thesephist.git"
+  },
+  "keywords": [
+    "person",
+    "contact",
+    "thesephist",
+    "linus"
+  ],
+  "author": "Linus Lee <linus@thesephist.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesephist/npm-thesephist/issues"
+  },
+  "homepage": "https://github.com/thesephist/npm-thesephist#readme"
+}

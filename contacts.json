@@ -1,0 +1,41 @@
+{
+
+    "firstName": "Linus",
+    "lastName": "Lee",
+
+    "email": {
+        "personal": "linus@thesephist.com"
+    },
+
+    "social": {
+        "twitter": "thesephist",
+        "instagram": "thesephist",
+        "venmo": "thesephist",
+        "github": "thesephist"
+    },
+
+    "www": "https://thesephist.com",
+    
+    "languages": [
+        "js",
+        "react",
+        "css",
+        "scss",
+        "python",
+        "html",
+        "go",
+        "psql"
+    ],
+
+    "libraries": [
+        "django",
+        "react",
+        "backbone",
+        "express",
+        "lodash",
+        "lit-html",
+        "webpack"
+    ]
+
+}
+
