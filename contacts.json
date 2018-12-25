@@ -4,17 +4,21 @@
     "lastName": "Lee",
 
     "email": {
-        "personal": "linus@thesephist.com"
+        "personal": "linus@thesephist.com",
+        "school": "l7@berkeley.edu"
     },
 
     "social": {
         "twitter": "thesephist",
         "instagram": "thesephist",
-        "venmo": "thesephist",
-        "github": "thesephist"
+        "github": "thesephist",
+        "medium": "thesephist",
+        "linkedin": "https://linkedin.com/in/thesephist"
     },
 
-    "www": "https://thesephist.com",
+    "www": "https://linus.zone/now",
+    "blog": "https://thesephist.com",
+    "resume": "https://linus.zone/resume",
     
     "languages": [
         "js",
